@@ -1,12 +1,12 @@
-# 🍎 Child Nutritional Care DApp (CNCDApp)
+# Child Nutritional Care DApp (CNCDApp)
 
 A decentralized application (DApp) designed to improve and manage child nutrition in schools and communities. Built using **Solidity**, **React.js**, and **Web3.js**, and deployed on the **Sepolia Testnet**.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 👤 **Role-based dashboards**:
+* **Role-based dashboards**:
 
   * **Admin**:
 
@@ -26,19 +26,19 @@ A decentralized application (DApp) designed to improve and manage child nutritio
     * Register children
     * View prescriptions
 
-* 📦 School-wise medicine stock management
+* School-wise medicine stock management
 
-* 🩺 Child health tracking: Registered → Approved → UnderTreatment → Treated
+* Child health tracking: Registered → Approved → UnderTreatment → Treated
 
-* 🔐 On-chain role control via smart contract
+* On-chain role control via smart contract
 
-* 🧾 Prescription history view
+* Prescription history view
 
-* 💬 Live smart contract event-based UI updates
+* Live smart contract event-based UI updates
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend**: React.js
 * **Smart Contract**: Solidity
@@ -48,7 +48,7 @@ A decentralized application (DApp) designed to improve and manage child nutritio
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -84,7 +84,7 @@ Make sure MetaMask is installed and connected to Sepolia.
 
 ---
 
-## 📄 Smart Contract Overview
+## Smart Contract Overview
 
 * Role enum: `None`, `Doctor`, `Principal`, `Teacher`
 * Centralized contract for managing all entities
@@ -98,7 +98,7 @@ Make sure MetaMask is installed and connected to Sepolia.
 ---
 
 
-## 👤 Author
+## Author
 
 **Bhoomi Dewangan**
 B.Tech (IT), NIT Raipur
