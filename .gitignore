@@ -1,5 +1,7 @@
 node_modules
 .env
+cncd-frontend/.env
+
 
 # Hardhat files
 /cache
